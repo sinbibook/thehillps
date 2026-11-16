@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-16T02:54:09.421562024Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-16T02:58:48.668780849Z",
     "templateType": "trip_l",
     "propertyId": "51519cc4-277c-423c-b83e-2fdd79b3ad60",
     "homepageId": "01a0b398-9d0c-7f89-a4d5-e4d9d2895687"
@@ -1784,7 +1784,6 @@
       "roomtypes": [
         {
           "id": "317f75b5-10bd-4a0d-858e-c7d8598ef9e5",
-          "name": "트윈힐 (25년신축/독채2동/공용수영장)",
           "images": [
             {
               "id": "01a0b398-ce43-728b-8793-9158bb8d266a",
@@ -2026,7 +2025,6 @@
         },
         {
           "id": "5d11f94e-d488-4085-8c4e-ddb2627dac06",
-          "name": "참나무 (25년신축/독채/공용수영장)",
           "images": [
             {
               "id": "01a0b398-cdac-734a-8128-2d006590c3fb",
@@ -2214,7 +2212,6 @@
         },
         {
           "id": "c45bf1a1-5bfa-4288-a87b-76c6a1be8514",
-          "name": "더 힐 (26년리모델링/독채/공용수영장)",
           "images": [
             {
               "id": "01a0b398-cd16-7e7e-b4ab-a723bcd322f7",
