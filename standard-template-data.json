@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-27T08:06:07.886838187Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-27T08:12:49.149727131Z",
     "templateType": "trip_l",
     "propertyId": "51519cc4-277c-423c-b83e-2fdd79b3ad60",
     "homepageId": "01a0b398-9d0c-7f89-a4d5-e4d9d2895687"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n- 빠른 입실 혹은 퇴실 연장을 원하시면 미리 문의해주세요! 상황에 따라 조율해드리겠습니다.(다만, 7, 8월에는 퇴실연장이 불가합니다.)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아(36개월 미만): 인원 포함\n※ 1인 1세트로 침구를 준비해드리므로 입실 전 침구 세팅을 위해 기준인원 외 추가인원은 요청메모 또는 연락 부탁드립니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 추가 1인 5,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 신청 시간: 입실 후 ~\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 숯/그릴 개인지참 불가능\n\n[공용수영장]\n- 운영 기간: 5월 20일~9월 30일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 10m x 1m\n※ 온더힐, 더힐 펜션 공용 수영장입니다.\n※ 영유아 어린이는 반드시 보호자와 함께 이용해주세요.\n※ 음주 후 이용 불가입니다.\n※ 날씨에 따라 운영 기간이 달라질 수 있음\n\n[불멍]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 실내,실외(온더힐,그린힐,블루힐,파인뷰)/ 실외(벚나무,참나무,단풍나무)\n※ 장작 추가 시 1망당 10,000원\n※ 실내/벽난로, 실외/화로\n\n[부대시설]\n[노래방]\n- 이용요금: 무료\n- 이용시간: ~22:00\n※ 외부 소음 방지를 위해 모든 창문과 문을 꼭 닫은 상태에서 이용해주시기 바랍니다.\n※ 이용시간: 입실 후\n\n[운동시설]\n[족구장]\n- 이용요금 : 무료\n- 이용시간 : 입실 ~ 해지기 전 (조명 시설 없음)\n※ 한 팀 당 1시간 이용 가능 (현장 상황에 따라 조정)\n※ 온더힐, 더힐 펜션 공용 사용\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 편의점/ 마트(세븐일레븐 차량10분/ 하나로마트 차량11분)\n\n[주차장]\n- 주차장 보유\n※ 객실 당 가능대수: 3대\n- 전기차 충전기 이용 불가\n\n[픽업]\n- 장소: 가평역 조은마트\n※ 픽업 요청 시 마트에 문의\n※ 입실은 상시\n※ 문의처 : 자세한 사항은 마트 문의 031-582-7900",
+    "usageGuide": "- 빠른 입실 혹은 퇴실 연장을 원하시면 미리 문의해주세요! 상황에 따라 조율해드리겠습니다.(다만, 7, 8월에는 퇴실연장이 불가합니다.)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 유아(36개월 미만): 인원 포함\n※ 1인 1세트로 침구를 준비해드리므로 입실 전 침구 세팅을 위해 기준인원 외 추가인원은 요청메모 또는 연락 부탁드립니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 추가 1인 5,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 신청 시간: 입실 후 ~\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 숯/그릴 개인지참 불가능\n\n[공용수영장]\n- 운영 기간: 5월 20일~9월 30일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 10m x 1m\n※ 온더힐, 더힐 펜션 공용 수영장입니다.\n※ 영유아 어린이는 반드시 보호자와 함께 이용해주세요.\n※ 음주 후 이용 불가입니다.\n※ 날씨에 따라 운영 기간이 달라질 수 있음\n\n[불멍]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 실내,실외(온더힐,그린힐,블루힐,파인뷰)/ 실외(벚나무,참나무,단풍나무)\n※ 장작 추가 시 1망당 10,000원\n※ 실내/벽난로, 실외/화로\n\n[부대시설]\n[노래방]\n- 이용요금: 무료\n- 이용시간: ~22:00\n※ 외부 소음 방지를 위해 모든 창문과 문을 꼭 닫은 상태에서 이용해주시기 바랍니다.\n※ 이용시간: 입실 후\n\n[운동시설]\n[족구장]\n- 이용요금 : 무료\n- 이용시간 : 입실 ~ 해지기 전 (조명 시설 없음)\n※ 한 팀 당 1시간 이용 가능 (현장 상황에 따라 조정)\n※ 온더힐, 더힐 펜션 공용 사용\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 편의점/ 마트(세븐일레븐 차량10분/ 하나로마트 차량11분)\n\n[주차장]\n- 주차장 보유\n※ 객실 당 가능대수: 3대\n- 전기차 충전기 이용 불가\n\n[픽업]\n- 장소: 가평역 조은마트\n※ 픽업 요청 시 마트에 문의\n※ 입실은 상시\n※ 문의처 : 자세한 사항은 마트 문의 031-582-7900",
     "reservationGuide": "- 빠른 입실 혹은 퇴실 연장을 원하시면 미리 문의해주세요! 상황에 따라 조율해드리겠습니다.(다만, 7, 8월에는 퇴실연장이 불가합니다.)",
     "province": "도/시",
     "city": "시/군/구",
@@ -143,9 +143,25 @@
         "displayOrder": 1,
         "images": [
           {
+            "id": "01a21c0f-601a-7036-a974-c4af75792aeb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1795767099104-7i6ulezccm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21c0f-615d-7c0c-91ec-4461696e9fc9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1795767099107-wiub6w25ub.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "01a0b39e-e30f-7202-8f57-901f27f87691",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1789719929166-xgc1zsz99z.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -153,7 +169,23 @@
           {
             "id": "01a0b39e-e39f-7929-8081-f82f64d2ab8f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1789719929167-nkpyxyz1x9.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21c0f-6112-785e-a64e-cfdba00e8de6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1795767099107-y1offtll13.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a21c0f-617c-7e48-8fe7-6b2d9deda74d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1795767099110-m6xe5n9y3w.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -161,7 +193,7 @@
           {
             "id": "01a0b39e-e2b6-7196-8c2d-c494b0d6c5ba",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/96d798a8-d980-4f36-a486-c6ba45c97cc7/main/1789719929168-7b6g2eicw8.jpg",
-            "sortOrder": 2,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -176,33 +208,25 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "01a0b39e-e5c9-7ff7-b40e-fcba01f78908",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1789719929813-vdsyvcst1t.jpg",
+            "id": "01a21c0f-666e-74eb-b6e0-e5c4a0e61835",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1795767100680-0ilbsutmfp.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b39e-e56c-7bc1-840b-a7c643d33705",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1789719929814-qzkpvsp02o.jpg",
+            "id": "01a21c0f-662a-70fe-bbfb-9995cadc6623",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1795767100676-tcu6b7zexb.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a0b39e-e54e-7afe-a1a7-49157479067c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1789719929815-3lfdapuf2t.jpg",
+            "id": "01a21c0f-660f-7590-943d-b33b311169a8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1795767100680-wnvv44ia1g.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0b39e-e5e7-7953-aec7-a2f20f6df5b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d579d0ac-17a8-4029-9f77-63cdc91b22c4/main/1789719929813-3yblrpwm22.jpg",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -384,7 +408,7 @@
           {
             "id": "01a21be7-9acd-7fbb-bdc4-6a38ee52a998",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/sGfgmTR4V5E1.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -394,7 +418,7 @@
           {
             "id": "01a21be7-9ace-77e0-a375-2fe844b77c89",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/nM7mzA2WCIS0.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -402,7 +426,7 @@
           {
             "id": "01a21be7-9acf-72ef-b7d0-9b102b239862",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/BNHA7oWGuYm8.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -410,7 +434,7 @@
           {
             "id": "01a21be7-9acf-7805-9b8c-5fe292e2b4f3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/Is5KThjnO9cz.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -418,7 +442,7 @@
           {
             "id": "01a21be7-9acf-7b57-9981-cbfe09b1d232",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/oURsFie26BL5.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -426,7 +450,7 @@
           {
             "id": "01a21be7-9acf-7f98-9194-d734aa8f27bb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/Q0g6T1kDLPOe.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -434,7 +458,7 @@
           {
             "id": "01a21be7-9ad0-7160-af53-aecaa2dfc1a2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/IXzLU3PwNBKg.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -442,7 +466,7 @@
           {
             "id": "01a21be7-9ad0-773f-a2f9-8002ec327e43",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/sVCSQjwOuPmB.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -450,7 +474,7 @@
           {
             "id": "01a21be7-9ad0-7b15-9993-39bc73a1fdca",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/ednCYvpDjqFc.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -458,7 +482,7 @@
           {
             "id": "01a21be7-9ad0-7e4b-b14f-6f599cda5bcb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/ox4aQALrb2iI.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -466,7 +490,7 @@
           {
             "id": "01a21be7-9ad1-7170-8a88-c6843821c71d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/K9Ub78fghtHA.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -474,7 +498,7 @@
           {
             "id": "01a21be7-9ad1-75dc-acd0-e6a0caaf7846",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/27/q4N9GaCY8sdT.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
